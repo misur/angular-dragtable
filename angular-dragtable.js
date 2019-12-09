@@ -280,6 +280,7 @@ angular.module('Dragtable', [])
 
         // append ghost elements into the table
         ghostTable(direction, element.index() + 1, true);
+        scope.$emit('drag-table-event');
       });
     }
   };

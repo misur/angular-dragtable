@@ -1,6 +1,6 @@
 {
   "name": "angular-dragtable",
-  "version": "1.0.10",
+  "version": "2.1.0",
   "description": "Directive that allows reorder of table columns.",
   "main": "angular-dragtable.js",
   "scripts": {
